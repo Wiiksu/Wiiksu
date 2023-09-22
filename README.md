@@ -1,0 +1,2 @@
+-  Hi, I’m @Wiiksu
+-  I’m currently learning React and Typescript
