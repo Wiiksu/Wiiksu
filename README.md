@@ -1,2 +1,2 @@
 -  Hi, I’m @Wiiksu
--  I’m currently learning React and Typescript
+-  Making things with different stacks
